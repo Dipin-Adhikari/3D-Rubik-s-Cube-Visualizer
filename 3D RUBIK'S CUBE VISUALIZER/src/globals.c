@@ -12,7 +12,7 @@ temp[3][3];
 // Rotation variables
 int rotation = 0;
 float theta = 0.0;
-int rotationcomplete = 0;
+int rotationcomplete = 1;
 int solve[300] = { 0 };
 int count = 0;
 float speed = 0.0;
